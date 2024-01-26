@@ -1,0 +1,5 @@
+---
+applications:
+ - name: cbda_api
+   random-route: true
+   memory: 2480M

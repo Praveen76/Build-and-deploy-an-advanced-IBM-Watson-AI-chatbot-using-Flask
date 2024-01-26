@@ -1,0 +1,14 @@
+{
+    "services": {
+      "discovery": [
+        {
+          "credentials": {
+            "url": "https://gateway.watsonplatform.net/discovery/api",
+            "username": "<Your username",
+            "password": "<Your password>"
+            },
+          "label": "discovery-jF629"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,9 @@
+.idea
+.pyc
+trkd/__pycache__/*
+eikon/__pycache__/*
+ibisworld/__pycache__/*
+kognetics/__pycache__/*
+cbda/__pycache__/*
+snp/__pycache__/*
+utils/__pycache__/*
